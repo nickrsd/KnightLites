@@ -1,0 +1,3 @@
+[submodule "Plugins/MultiplayerMenu"]
+	path = Plugins/MultiplayerMenu
+	url = https://github.com/nickrsd/UnrealMultiplayerMenu
